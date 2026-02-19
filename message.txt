@@ -1,1 +1,1 @@
-This is the diff-branch version
+Diff branch conflicting version
