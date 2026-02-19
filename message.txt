@@ -1,1 +1,1 @@
-Learning Git Diff in Linux Lab
+Learning Git Diff and Comparing Commits
