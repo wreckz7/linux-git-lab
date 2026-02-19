@@ -1,1 +1,1 @@
-Main branch version
+Resolved version combining main and diff-branch
