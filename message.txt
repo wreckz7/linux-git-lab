@@ -1,1 +1,1 @@
-Hello from Branch A and Branch B!
+Learning Git Diff in Linux Lab
